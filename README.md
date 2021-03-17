@@ -1,5 +1,5 @@
 <h1> Conhecendo-Linguagem-JavaScript</h1>
-<h2>Exercicíos Simples</h2>
+
 <ul>
   
   <li>Declaração de váriaveis</li>
